@@ -1,0 +1,33 @@
+
+body{
+    background: linear-gradient(to left, rgb(163, 63, 24),gold);
+}
+.box1{
+    height: 50px;
+    width: 800px;
+    background: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box2{
+    height: 50px;
+    width: 800px;
+    background: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.box3{
+    height: 50px;
+    width: 800px;
+    background: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
